@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Melissa! 👩‍💻
+# Olá, eu me chamo Melissa! 👩‍💻
 
 **Desenvolvedora Front-end em formação · JavaScript · Python · CSS**
 
