@@ -49,8 +49,6 @@ Gosto de criar interfaces que sejam funcionais e bem organizadas, e estou sempre
 
 ![Melissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melissaandfranc&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissaandfranc&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
 </div>
 
 ---
