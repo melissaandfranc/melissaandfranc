@@ -31,15 +31,19 @@
 
 ###
 
-<p data-importer="text" align="left">Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas, e estou construindo minha trajetória no desenvolvimento front-end.</p>
+<p data-importer="text" align="left">Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas,
+  e estou construindo minha trajetória no desenvolvimento front-end.</p>
 
 ###
 
-<p data-importer="text" align="left">tenho interesse em desenvolvimento web, interfaces modernas, performance e boas práticas de programação. Gosto de criar interfaces que sejam funcionais e bem organizadas, e estou sempre buscando aprender novas tecnologias.</p>
+<p data-importer="text" align="left">tenho interesse em desenvolvimento web, interfaces modernas, performance e
+  boas práticas de programação. Gosto de criar interfaces que sejam funcionais e bem organizadas, e estou sempre 
+  buscando aprender novas tecnologias.</p>
 
 ###
 
-<p data-importer="text" align="left">Busco minha primeira oportunidade na área da tecnologia para aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmenre.</p>
+<p data-importer="text" align="left">Busco minha primeira oportunidade na área da tecnologia para aplicar meus 
+  conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmenre.</p>
 
 ###
 
