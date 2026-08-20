@@ -68,7 +68,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>  
-
+<br>
 ###
 
 <picture data-importer="pacman">
@@ -76,5 +76,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D8BFD8&height=100&section=footer" />
