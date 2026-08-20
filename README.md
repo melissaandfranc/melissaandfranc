@@ -1,11 +1,8 @@
 <div aling="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D8BFD8&height=200&section=header&text=Melissa%20Franca&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedora%20%7C%20Estudante&descAlignY=60&descSize=18" />
 
-  ####
+
 <h1 Opa, pode me chamar de Mell!🐱</h1>
-
-
-###
 
 <h5 data-importer="text" align="center">Conecte-se comigo!</h5>
 
