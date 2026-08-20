@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D8BFD8&height=200&section=header&text=Melissa%20Franca&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedora%20%7C%20Estudante&descAlignY=60&descSize=18" />
 
-
-<h1 data-importer="text" align="center">Opa, pode me chamar de Mell!🐱 </h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=524&lines=%E2%8A%B9+Opa, pode me chamar de Mell!🐱+%E2%8A%B9" alt="Typing SVG">
+</a>
 
 ###
 
@@ -69,4 +70,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D8BFD8&height=100&section=footer" />
