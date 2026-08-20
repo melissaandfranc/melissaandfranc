@@ -5,7 +5,7 @@
 
 ###
 
-<h5 data-importer="text" align="center">Desenvolvedora Front-end em formação</h5>
+<h5 data-importer="text" align="center">Conecte-se comigo!</h5>
 
 ###
 
