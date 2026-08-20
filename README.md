@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,11&height=200&section=header&text=Guilherme%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=60&descSize=18" />
 <h1 data-importer="text" align="center">Opa, eu me chamo Melissa!🐱</h1>
 
 ###
