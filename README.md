@@ -4,9 +4,7 @@
   ####
   
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=524&lines=Opa%2C+pode+me+chamar+de+Mell%21%F0%9F%90%B1" alt="Typing SVG">
-</a>
+<h1 Opa, pode me chamar de Mell!🐱</h1>
 </div>
 
 ###
