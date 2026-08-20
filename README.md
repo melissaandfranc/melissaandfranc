@@ -1,14 +1,8 @@
 <div align="center">
-
-<img src="minecraft_banner.svg"
-type=waving&color=gradient&customColorList=2,420&height=200&section=header&text=Guilherme%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=60&descSize=18" />
-
+<img src="minecraft_banner.svg" width="100%" />
 <h1 data-importer="text" align="center">Opa, pode me chamar de Mell!🐱</h1>
-
 <h5 data-importer="text" align="center">Conecte-se comigo!</h5>
-
 ###
-
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/melissa-franca-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -20,33 +14,21 @@ type=waving&color=gradient&customColorList=2,420&height=200&section=header&text=
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
 ###
-
 <h2 data-importer="text" align="left">Sobre mim</h2>
-
 ###
-
 <p data-importer="text" align="left">Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas,
   e estou construindo minha trajetória no desenvolvimento front-end.</p>
-
 ###
-
 <p data-importer="text" align="left">tenho interesse em desenvolvimento web, interfaces modernas, performance e
   boas práticas de programação. Gosto de criar interfaces que sejam funcionais e bem organizadas, e estou sempre 
   buscando aprender novas tecnologias.</p>
-
 ###
-
 <p data-importer="text" align="left">Busco minha primeira oportunidade na área da tecnologia para aplicar meus 
   conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmenre.</p>
-
 ###
-
 <h2 data-importer="text" align="left">Linguagens e Tecnologia</h2>
-
 ###
-
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -64,20 +46,15 @@ type=waving&color=gradient&customColorList=2,420&height=200&section=header&text=
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>  
-
 <div>
 <br>
-
 ###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/melissaandfranc/melissaandfranc/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
-
 </div>
-
 <br> 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:D8BFD8&height=100&section=footer" />
+<img src="minecraft_banner.svg" width="100%" />
+</div>
