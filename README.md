@@ -1,6 +1,7 @@
-<div aling="center">
-![banner](minecraft_banner.svg)
+<div align="center">
 
+<img src="minecraft_banner.svg"
+type=waving&color=gradient&customColorList=2,420&height=200&section=header&text=Guilherme%20Henrique&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=60&descSize=18" />
 
 <h1 data-importer="text" align="center">Opa, pode me chamar de Mell!🐱</h1>
 
