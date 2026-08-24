@@ -20,20 +20,28 @@
 
 ## 👩‍💻 Sobre mim
 
+<div align="left">
+
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas, construindo minha trajetória no desenvolvimento front-end.
 
 Tenho interesse em desenvolvimento web, interfaces modernas, performance e boas práticas de programação. Gosto de criar interfaces que sejam funcionais e bem organizadas, e estou sempre buscando aprender novas tecnologias.
 
 Busco minha primeira oportunidade na área da tecnologia para aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
 
+</div>
+
 <br>
 
 ## 🔭 Atualmente
+
+<div align="left">
 
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas**
 - 💻 Aprofundando conhecimentos em **front-end** (HTML, CSS, JavaScript)
 - 🎯 Em busca da minha **primeira oportunidade** na área de tecnologia
 - 🌱 Aprendendo **TypeScript** e boas práticas de código
+
+</div>
 
 <br>
 
@@ -55,15 +63,6 @@ Busco minha primeira oportunidade na área da tecnologia para aplicar meus conhe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-</div>
-
-<br>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=melissaandfranc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissaandfranc&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 <br>
